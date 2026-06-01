@@ -1,2 +1,4 @@
 Current version: ALPHA DEV 02
 Current goals:Improve Embedding 
+Goal accomplished:Added gitignore
+Goal accomplished:Learned git 
